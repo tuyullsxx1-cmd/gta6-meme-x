@@ -1,3 +1,9 @@
+[![make.fun](https://make.fun/badge/gta6-meme-x-01.svg)](https://make.fun/bounty/gta6-meme-x-01)
+[![Rank](https://make.fun/badge/gta6-meme-x-01/tuyullsxx1-cmd/gta6-meme-x/rank.svg)](https://make.fun/bounty/gta6-meme-x-01)
+[![Reward](https://make.fun/badge/gta6-meme-x-01/tuyullsxx1-cmd/gta6-meme-x/reward.svg)](https://make.fun/bounty/gta6-meme-x-01)
+
+Competition: [Post a GTA 6 meme on X](https://make.fun/bounty/gta6-meme-x-01)
+
 # GTA 6 meme — launch-day sick day
 
 A meme about GTA 6 launch day: the make.fun ghost calls in "sick" so it can play GTA 6 (Vice City) all day on the couch.
